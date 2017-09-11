@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Changed text1Col to purple color -->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="text1Col">#FF0000</color>
+    <color name="text1Col">#521396</color>
     <color name="text2Col">#FF6347</color>
     <color name="text3Col">#FFB6C1</color>
     <color name="back1Col">#FFE4E1</color>
