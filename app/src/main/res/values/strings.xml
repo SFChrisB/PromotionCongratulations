@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PromotionCongratulations</string>
+    <string name="cong_text">Congratulations</string>
+    <string name="oms_text">on making supervisor</string>
+    <string name="ydi_text">You deserve it!</string>
+    <string name="ssc_font">sans-serif-condensed</string>
+</resources>

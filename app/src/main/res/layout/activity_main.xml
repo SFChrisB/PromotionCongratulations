@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back1Col"
+    tools:context="com.example.android.promotioncongratulations.MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:scaleType="center"
+
+        android:layout_margin="@dimen/padMed"
+        android:src="@drawable/congrats2"/>
+
+    <TextView
+        android:id="@+id/CongratulationsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+
+        android:paddingTop="@dimen/padLar"
+        android:fontFamily="@string/ssc_font"
+        android:textColor="@color/text1Col"
+        android:textSize="@dimen/ts_large"
+        android:text="@string/cong_text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+
+        android:layout_below="@id/CongratulationsText"
+        android:paddingTop="@dimen/padSma"
+        android:textColor="@color/text2Col"
+        android:textSize="@dimen/ts_medium"
+        android:text="@string/oms_text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:textStyle="bold"
+
+        android:paddingBottom="@dimen/padXLar"
+        android:textColor="@color/text3Col"
+        android:textSize="@dimen/ts_large"
+        android:text="@string/ydi_text" />
+</RelativeLayout>
