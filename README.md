@@ -1,6 +1,8 @@
-# PromotionCongratulations
-Simple one screen Congratulations card.
+# Congratulatory E-Card
+This is a simple one screen congratulations e-card.
 
-This is an Android Studio created 'Greetings Card' of sorts, that has been uploaded to test out uploading projects from Android Studio.
+## Format of the Story
+This was created in Android Studio and the project is written in **XML**
 
-The project only uses XML.
+##Licence
+The content of this repository is licensed under a Creative Commons Attribution License
